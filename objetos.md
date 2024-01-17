@@ -15,7 +15,7 @@ console.log(typeof([])); //object
 console.log(typeof(Math)); //object
 ```
 
-Uma das coisas que diferencia objetos de tipos primitivos é que objetos são mutáveis, pois podemos acessar as propriedades de um objeto usando . ou [ ] .
+Uma das coisas que diferencia objetos de tipos primitivos é que objetos são mutáveis, pois podemos acessar e modificar as propriedades de um objeto usando . ou [ ] .
 
 ```javascript
 let fruit = { name: 'orange' };
