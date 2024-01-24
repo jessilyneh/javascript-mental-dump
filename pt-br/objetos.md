@@ -28,3 +28,7 @@ Diferente de tipos primitivos, que não podem ser "criados" novos tipos primitiv
 ```javascript
 const fruit = {}
 ```
+
+## Construtores e protótipos
+
+JavaScript é uma linguagem multiparadigma que se baseia em protótipos,diferente de linguagens que usam classes e são orientadas a objetos, como Java. Apesar de ser possível usar orientação a objetos em Javascript, também é possível usar outros paradigmas de programação, logo, é mais correto afirmar que é multiparadigma, mas não é errado afirmar que Javascript é uma linguagem para trabalhar com Orientação a Objetos - só é uma resposta incompleta.
